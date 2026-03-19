@@ -1,5 +1,4 @@
 //Author: Jax Hendrickson
-//Date: 10/13/2023
 //Purpose: Header file for the priorityqueue class, one of our data structures. 
 #ifndef PRIORITYQUEUE_H
 #define PRIORITYQUEUE_H
