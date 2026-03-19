@@ -1,4 +1,4 @@
-//Author: Erin Keith, given to us prior
+//Author: Jax Hendrickson
 //Purpose: The Queue interface, which the arrayqueue and priorityqueue classes will both inherit from. 
 #ifndef QUEUE_INTERFACE 
 #define QUEUE_INTERFACE 
