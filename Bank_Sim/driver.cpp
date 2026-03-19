@@ -1,6 +1,5 @@
 /*
-Names: Nicholas Katsaros and Jax Hendrickson
-Date: 10/13/2023
+Author: Jax Hendrickson
 Purpose: To simulate a line in a bank using two methods of data storage: array and priority queue, and to collect statistics based on the data recorded. 
 */
 
