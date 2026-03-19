@@ -1,5 +1,4 @@
 //Author: Jax Hendrickson
-//Date: 10/13/2023
 //Purpose: Source file for the priorityqueue class, one of our data structures. 
 #include "priorityqueue.h"
 template <class ItemType> 
