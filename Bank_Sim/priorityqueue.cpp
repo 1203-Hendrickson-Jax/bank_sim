@@ -14,7 +14,7 @@ bool PriorityQueue<ItemType>::enqueue(const ItemType& newEntry){
         return false;
     }
     int insertIndex = count;
-    while (insertIndex > 0 && newEntry.getArrivalTime() < data[insertIndex-1].getArrivalTime()){ //small issue here? may have to add an && to make sure the priority of the current customer is larger than the next customer. 
+    while (insertIndex > 0 && newEntry.getArrivalTime() < data[insertIndex-1].getArrivalTime()){ 
         data[insertIndex] = data [insertIndex-1];
         insertIndex--;
     }
