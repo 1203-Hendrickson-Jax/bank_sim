@@ -1,5 +1,4 @@
 //Author: Jax Hendrickson
-//Date: 10/13/2023
 //Purpose: Header file for the arrayqueue class, one of our data structures. 
 
 #ifndef ARRAYQUEUE_H
