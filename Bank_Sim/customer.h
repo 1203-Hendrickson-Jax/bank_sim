@@ -1,6 +1,5 @@
 /*
-Created by: Nicholas Katsaros
-Date: 10/13/2023
+Author: Jax Hendrickson
 Purpose: Header file for Customer class
 */
 
